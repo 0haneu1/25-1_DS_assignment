@@ -1,0 +1,71 @@
+2025-03-17 20:49:04,731 INFO    MainThread:2865 [wandb_setup.py:_flush():67] Current SDK version is 0.19.8
+2025-03-17 20:49:04,733 INFO    MainThread:2865 [wandb_setup.py:_flush():67] Configure stats pid to 2865
+2025-03-17 20:49:04,733 INFO    MainThread:2865 [wandb_setup.py:_flush():67] Loading settings from /Users/parkhaneul/.config/wandb/settings
+2025-03-17 20:49:04,733 INFO    MainThread:2865 [wandb_setup.py:_flush():67] Loading settings from /Users/parkhaneul/Documents/2025/YBIGTA/2501/25-1_DS_assignment/25-1-DS-Week-1-Assignment/wandb/settings
+2025-03-17 20:49:04,733 INFO    MainThread:2865 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-17 20:49:04,733 INFO    MainThread:2865 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /Users/parkhaneul/Documents/2025/YBIGTA/2501/25-1_DS_assignment/25-1-DS-Week-1-Assignment/wandb/run-20250317_204904-tqzj3jz9/logs/debug.log
+2025-03-17 20:49:04,733 INFO    MainThread:2865 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /Users/parkhaneul/Documents/2025/YBIGTA/2501/25-1_DS_assignment/25-1-DS-Week-1-Assignment/wandb/run-20250317_204904-tqzj3jz9/logs/debug-internal.log
+2025-03-17 20:49:04,734 INFO    MainThread:2865 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x13b1a5640>
+2025-03-17 20:49:04,737 INFO    MainThread:2865 [wandb_init.py:init():761] calling init triggers
+2025-03-17 20:49:04,737 INFO    MainThread:2865 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'src_vocab_size': 100, 'tgt_vocab_size': 200, 'd_model': 32, 'n_heads': 4, 'd_ff': 64, 'num_encoder_layers': 6, 'num_decoder_layers': 6, 'dropout': 0.1, 'batch_size': 32, 'num_epochs': 50, 'learning_rate': 0.0001, '_wandb': {}}
+2025-03-17 20:49:04,737 INFO    MainThread:2865 [wandb_init.py:init():784] starting backend
+2025-03-17 20:49:04,737 INFO    MainThread:2865 [wandb_init.py:init():788] sending inform_init request
+2025-03-17 20:49:04,773 INFO    MainThread:2865 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2025-03-17 20:49:04,773 INFO    MainThread:2865 [wandb_init.py:init():798] backend started and connected
+2025-03-17 20:49:04,796 INFO    MainThread:2865 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-17 20:49:04,797 INFO    MainThread:2865 [wandb_init.py:init():891] updated telemetry
+2025-03-17 20:49:04,844 INFO    MainThread:2865 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-03-17 20:49:05,798 INFO    MainThread:2865 [wandb_init.py:init():990] starting run threads in backend
+2025-03-17 20:49:06,044 INFO    MainThread:2865 [wandb_run.py:_console_start():2375] atexit reg
+2025-03-17 20:49:06,044 INFO    MainThread:2865 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-17 20:49:06,045 INFO    MainThread:2865 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-17 20:49:06,045 INFO    MainThread:2865 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-03-17 20:49:06,047 INFO    MainThread:2865 [wandb_init.py:init():1032] run started, returning control to user process
+2025-03-17 20:49:07,519 INFO    MainThread:2865 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-17 20:49:07,519 INFO    MainThread:2865 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-17 20:51:19,308 INFO    MainThread:2865 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-17 20:51:19,355 INFO    MainThread:2865 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /Users/parkhaneul/Documents/2025/YBIGTA/2501/25-1_DS_assignment/25-1-DS-Week-1-Assignment/wandb/run-20250317_205119-yyzaahf4/logs/debug.log
+2025-03-17 20:51:19,355 INFO    MainThread:2865 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /Users/parkhaneul/Documents/2025/YBIGTA/2501/25-1_DS_assignment/25-1-DS-Week-1-Assignment/wandb/run-20250317_205119-yyzaahf4/logs/debug-internal.log
+2025-03-17 20:51:19,355 INFO    MainThread:2865 [wandb_init.py:init():761] calling init triggers
+2025-03-17 20:51:19,355 INFO    MainThread:2865 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'src_vocab_size': 100, 'tgt_vocab_size': 200, 'd_model': 32, 'n_heads': 4, 'd_ff': 64, 'num_encoder_layers': 6, 'num_decoder_layers': 6, 'dropout': 0.1, 'batch_size': 32, 'num_epochs': 50, 'learning_rate': 0.0001, '_wandb': {}}
+2025-03-17 20:51:19,355 INFO    MainThread:2865 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-17 20:51:19,543 INFO    MainThread:2865 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-17 20:51:19,543 INFO    MainThread:2865 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-17 21:00:16,911 INFO    MainThread:2865 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-17 21:00:16,936 INFO    MainThread:2865 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /Users/parkhaneul/Documents/2025/YBIGTA/2501/25-1_DS_assignment/25-1-DS-Week-1-Assignment/wandb/run-20250317_210016-fb438qmj/logs/debug.log
+2025-03-17 21:00:16,936 INFO    MainThread:2865 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /Users/parkhaneul/Documents/2025/YBIGTA/2501/25-1_DS_assignment/25-1-DS-Week-1-Assignment/wandb/run-20250317_210016-fb438qmj/logs/debug-internal.log
+2025-03-17 21:00:16,936 INFO    MainThread:2865 [wandb_init.py:init():761] calling init triggers
+2025-03-17 21:00:16,936 INFO    MainThread:2865 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'src_vocab_size': 100, 'tgt_vocab_size': 200, 'd_model': 32, 'n_heads': 4, 'd_ff': 64, 'num_encoder_layers': 6, 'num_decoder_layers': 6, 'dropout': 0.1, 'batch_size': 32, 'num_epochs': 50, 'learning_rate': 0.0001, '_wandb': {}}
+2025-03-17 21:00:16,936 INFO    MainThread:2865 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-17 21:00:17,150 INFO    MainThread:2865 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-17 21:00:17,151 INFO    MainThread:2865 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-17 21:02:41,525 INFO    MainThread:2865 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-17 21:02:41,569 INFO    MainThread:2865 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-17 21:02:41,569 INFO    MainThread:2865 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-17 21:03:06,487 INFO    MainThread:2865 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-17 21:03:06,491 INFO    MainThread:2865 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-17 21:03:06,493 INFO    MainThread:2865 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-17 21:03:07,038 INFO    MainThread:2865 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-17 21:03:07,048 INFO    MainThread:2865 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-17 21:03:07,048 INFO    MainThread:2865 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-17 21:03:08,193 INFO    MainThread:2865 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-17 21:03:08,237 INFO    MainThread:2865 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /Users/parkhaneul/Documents/2025/YBIGTA/2501/25-1_DS_assignment/25-1-DS-Week-1-Assignment/wandb/run-20250317_210308-gk1bxbt0/logs/debug.log
+2025-03-17 21:03:08,237 INFO    MainThread:2865 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /Users/parkhaneul/Documents/2025/YBIGTA/2501/25-1_DS_assignment/25-1-DS-Week-1-Assignment/wandb/run-20250317_210308-gk1bxbt0/logs/debug-internal.log
+2025-03-17 21:03:08,237 INFO    MainThread:2865 [wandb_init.py:init():761] calling init triggers
+2025-03-17 21:03:08,237 INFO    MainThread:2865 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'src_vocab_size': 100, 'tgt_vocab_size': 200, 'd_model': 32, 'n_heads': 4, 'd_ff': 64, 'num_encoder_layers': 6, 'num_decoder_layers': 6, 'dropout': 0.1, 'batch_size': 32, 'num_epochs': 50, 'learning_rate': 0.0001, '_wandb': {}}
+2025-03-17 21:03:08,238 INFO    MainThread:2865 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-17 21:03:08,399 INFO    MainThread:2865 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-17 21:03:08,400 INFO    MainThread:2865 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-17 21:04:21,931 INFO    MainThread:2865 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-17 21:04:21,983 INFO    MainThread:2865 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /Users/parkhaneul/Documents/2025/YBIGTA/2501/25-1_DS_assignment/25-1-DS-Week-1-Assignment/wandb/run-20250317_210421-q5lcjjzd/logs/debug.log
+2025-03-17 21:04:21,984 INFO    MainThread:2865 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /Users/parkhaneul/Documents/2025/YBIGTA/2501/25-1_DS_assignment/25-1-DS-Week-1-Assignment/wandb/run-20250317_210421-q5lcjjzd/logs/debug-internal.log
+2025-03-17 21:04:21,985 INFO    MainThread:2865 [wandb_init.py:init():761] calling init triggers
+2025-03-17 21:04:21,985 INFO    MainThread:2865 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'src_vocab_size': 100, 'tgt_vocab_size': 200, 'd_model': 32, 'n_heads': 4, 'd_ff': 64, 'num_encoder_layers': 6, 'num_decoder_layers': 6, 'dropout': 0.1, 'batch_size': 32, 'num_epochs': 50, 'learning_rate': 0.0001, '_wandb': {}}
+2025-03-17 21:04:21,985 INFO    MainThread:2865 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-17 21:04:22,162 INFO    MainThread:2865 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-17 21:04:22,202 INFO    MainThread:2865 [wandb_init.py:_pause_backend():564] pausing backend

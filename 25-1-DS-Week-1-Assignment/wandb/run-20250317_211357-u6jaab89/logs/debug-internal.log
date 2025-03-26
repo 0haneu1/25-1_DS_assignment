@@ -1,0 +1,10 @@
+{"time":"2025-03-17T21:13:57.951276+09:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/Users/parkhaneul/Documents/2025/YBIGTA/2501/25-1_DS_assignment/25-1-DS-Week-1-Assignment/wandb/run-20250317_211357-u6jaab89/logs/debug-core.log"}
+{"time":"2025-03-17T21:13:58.067725+09:00","level":"INFO","msg":"created new stream","id":"u6jaab89"}
+{"time":"2025-03-17T21:13:58.06799+09:00","level":"INFO","msg":"stream: started","id":"u6jaab89"}
+{"time":"2025-03-17T21:13:58.068435+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"u6jaab89"}
+{"time":"2025-03-17T21:13:58.06861+09:00","level":"INFO","msg":"sender: started","stream_id":"u6jaab89"}
+{"time":"2025-03-17T21:13:58.068504+09:00","level":"INFO","msg":"handler: started","stream_id":"u6jaab89"}
+{"time":"2025-03-17T21:13:58.514255+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T21:14:18.047718+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T21:14:51.221703+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-17T21:14:56.310362+09:00","level":"INFO","msg":"Pausing system monitor"}

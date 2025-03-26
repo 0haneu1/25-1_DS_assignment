@@ -1,0 +1,17 @@
+2025-03-17 21:03:08,237 INFO    MainThread:2865 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /Users/parkhaneul/Documents/2025/YBIGTA/2501/25-1_DS_assignment/25-1-DS-Week-1-Assignment/wandb/run-20250317_210308-gk1bxbt0/logs/debug.log
+2025-03-17 21:03:08,237 INFO    MainThread:2865 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /Users/parkhaneul/Documents/2025/YBIGTA/2501/25-1_DS_assignment/25-1-DS-Week-1-Assignment/wandb/run-20250317_210308-gk1bxbt0/logs/debug-internal.log
+2025-03-17 21:03:08,237 INFO    MainThread:2865 [wandb_init.py:init():761] calling init triggers
+2025-03-17 21:03:08,237 INFO    MainThread:2865 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'src_vocab_size': 100, 'tgt_vocab_size': 200, 'd_model': 32, 'n_heads': 4, 'd_ff': 64, 'num_encoder_layers': 6, 'num_decoder_layers': 6, 'dropout': 0.1, 'batch_size': 32, 'num_epochs': 50, 'learning_rate': 0.0001, '_wandb': {}}
+2025-03-17 21:03:08,238 INFO    MainThread:2865 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-17 21:03:08,399 INFO    MainThread:2865 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-17 21:03:08,400 INFO    MainThread:2865 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-17 21:04:21,931 INFO    MainThread:2865 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-17 21:04:21,983 INFO    MainThread:2865 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /Users/parkhaneul/Documents/2025/YBIGTA/2501/25-1_DS_assignment/25-1-DS-Week-1-Assignment/wandb/run-20250317_210421-q5lcjjzd/logs/debug.log
+2025-03-17 21:04:21,984 INFO    MainThread:2865 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /Users/parkhaneul/Documents/2025/YBIGTA/2501/25-1_DS_assignment/25-1-DS-Week-1-Assignment/wandb/run-20250317_210421-q5lcjjzd/logs/debug-internal.log
+2025-03-17 21:04:21,985 INFO    MainThread:2865 [wandb_init.py:init():761] calling init triggers
+2025-03-17 21:04:21,985 INFO    MainThread:2865 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'src_vocab_size': 100, 'tgt_vocab_size': 200, 'd_model': 32, 'n_heads': 4, 'd_ff': 64, 'num_encoder_layers': 6, 'num_decoder_layers': 6, 'dropout': 0.1, 'batch_size': 32, 'num_epochs': 50, 'learning_rate': 0.0001, '_wandb': {}}
+2025-03-17 21:04:21,985 INFO    MainThread:2865 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-17 21:04:22,162 INFO    MainThread:2865 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-17 21:04:22,202 INFO    MainThread:2865 [wandb_init.py:_pause_backend():564] pausing backend

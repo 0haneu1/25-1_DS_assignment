@@ -1,0 +1,8 @@
+{"time":"2025-03-17T21:11:05.094543+09:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/Users/parkhaneul/Documents/2025/YBIGTA/2501/25-1_DS_assignment/25-1-DS-Week-1-Assignment/wandb/run-20250317_211105-8r2ehnpv/logs/debug-core.log"}
+{"time":"2025-03-17T21:11:05.208303+09:00","level":"INFO","msg":"created new stream","id":"8r2ehnpv"}
+{"time":"2025-03-17T21:11:05.20838+09:00","level":"INFO","msg":"stream: started","id":"8r2ehnpv"}
+{"time":"2025-03-17T21:11:05.208522+09:00","level":"INFO","msg":"handler: started","stream_id":"8r2ehnpv"}
+{"time":"2025-03-17T21:11:05.208549+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"8r2ehnpv"}
+{"time":"2025-03-17T21:11:05.20868+09:00","level":"INFO","msg":"sender: started","stream_id":"8r2ehnpv"}
+{"time":"2025-03-17T21:11:05.817089+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T21:11:07.442015+09:00","level":"INFO","msg":"Pausing system monitor"}

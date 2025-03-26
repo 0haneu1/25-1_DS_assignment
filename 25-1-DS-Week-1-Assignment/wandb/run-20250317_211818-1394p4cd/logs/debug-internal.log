@@ -1,0 +1,19 @@
+{"time":"2025-03-17T21:18:18.247822+09:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/Users/parkhaneul/Documents/2025/YBIGTA/2501/25-1_DS_assignment/25-1-DS-Week-1-Assignment/wandb/run-20250317_211818-1394p4cd/logs/debug-core.log"}
+{"time":"2025-03-17T21:18:18.3728+09:00","level":"INFO","msg":"created new stream","id":"1394p4cd"}
+{"time":"2025-03-17T21:18:18.373011+09:00","level":"INFO","msg":"stream: started","id":"1394p4cd"}
+{"time":"2025-03-17T21:18:18.373959+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"1394p4cd"}
+{"time":"2025-03-17T21:18:18.374293+09:00","level":"INFO","msg":"sender: started","stream_id":"1394p4cd"}
+{"time":"2025-03-17T21:18:18.37437+09:00","level":"INFO","msg":"handler: started","stream_id":"1394p4cd"}
+{"time":"2025-03-17T21:18:18.786118+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T21:19:44.64516+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T21:19:44.701775+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-17T21:19:45.200842+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T21:19:45.231645+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-17T21:19:47.160579+09:00","level":"INFO","msg":"stream: closing","id":"1394p4cd"}
+{"time":"2025-03-17T21:19:47.16093+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T21:19:47.163316+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T21:19:47.914039+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T21:19:48.166736+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":"1394p4cd"}
+{"time":"2025-03-17T21:19:48.16717+09:00","level":"INFO","msg":"handler: closed","stream_id":"1394p4cd"}
+{"time":"2025-03-17T21:19:48.167196+09:00","level":"INFO","msg":"sender: closed","stream_id":"1394p4cd"}
+{"time":"2025-03-17T21:19:48.167699+09:00","level":"INFO","msg":"stream: closed","id":"1394p4cd"}
